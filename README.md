@@ -14,6 +14,19 @@ download them at https://www.amazon.com/kindle-dbs/fd/kcp
 ## Jupyter notebooks and Figures
 
 
+# ABOUT PYTHON 2 AND LIBRARY VERSIONS
+
+  These notebooks were all written using Python 2 and corresponding versions of
+  Keras, PyTorch, and TensorFlow. The world has continued to spin, and now Python 3
+  has taken over, with the libraries also updating to match, as well as adding
+  new features. Unfortunately, I don't have the time or resources to update all of
+  these notebooks to Python 3. I think most of them should be easy to port with 
+  just a few changes, most notably to using parens in print statements, and some
+  small changes to library calls. If you would like to update the notebooks to
+  Python 3, go for it! And send me a pull request so I can include your work here.
+  The rest of this file is left unchanged from its original contents.
+
+
 # ABOUT THE NOTEBOOKS 
 
   Only three chapters in the book contain explicit code. Chapter 15 discusses
